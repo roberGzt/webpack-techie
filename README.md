@@ -20,7 +20,6 @@ Además de loaders, que procesan archivos de tipos particulares generando finalm
 Luego de tener instalado node.js, dentro de la carpeta del proyecto en el que queremos usar webpack debemos inicializar npm para que gestione nuestras dependencias sobre librerias (entre ellas, webpack):
 ```
 npm init -y
-npm install webpack webpack-cli --save-dev
 ```
 
 Usamos la opción *-y* para aceptar las opciones por defecto.
