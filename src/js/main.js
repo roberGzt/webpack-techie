@@ -1,4 +1,6 @@
 import { boton,mensaje } from './domLoader';
+import '../css/main.css';
+import '../css/botones.css';
 var mostrarMensaje = false;
 
 boton.addEventListener('click', toggleMostrarMensaje);
